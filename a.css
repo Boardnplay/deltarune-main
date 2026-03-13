@@ -90,7 +90,7 @@ justify-content:center;
 align-items:center;
 text-align:center;
 padding:20px;
-background:linear-gradient(120deg,#0f172a,#1e293b);
+background:linear-gradient(120deg,black);
 animation:fadeIn 1.5s ease;
 }
 
